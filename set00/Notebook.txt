@@ -1,0 +1,9 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+
+09/03   JFM     15:00   15:30   10				20		Installed Dr. Racket
+09/04	JFM	14:00	16:30	30		1-5		120		Analysed and solved Q1-Q6
+09/05	JFM	12:00   13:30	30		6-10		120		Analysed and solved Q6-Q10
+09/06	JFM	13:30	14:30	15				45		Formated Questions 1-10
+09/06   JFM     10:00   10:30   5				25		Created GitHub Account
+09/06   JFM	18:00   18:20   5				10		Set up private Github repository
+---------------------------------Committing to git: 09/08 00:00---------------------------------------------------	
